@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/bin/Debug/net8.0/desafio_bool
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/bin/Debug/net8.0/desafio_bool.deps.json
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/bin/Debug/net8.0/desafio_bool.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/bin/Debug/net8.0/desafio_bool.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/bin/Debug/net8.0/desafio_bool.pdb
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/obj/Debug/net8.0/desafio_bool.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/obj/Debug/net8.0/desafio_bool.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/obj/Debug/net8.0/desafio_bool.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/obj/Debug/net8.0/desafio_bool.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/obj/Debug/net8.0/desafio_bool.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/obj/Debug/net8.0/refint/desafio_bool.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/obj/Debug/net8.0/desafio_bool.pdb
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/obj/Debug/net8.0/desafio_bool.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_bool/obj/Debug/net8.0/ref/desafio_bool.dll

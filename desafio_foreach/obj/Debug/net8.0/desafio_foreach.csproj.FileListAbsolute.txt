@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/bin/Debug/net8.0/desafio_foreach
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/bin/Debug/net8.0/desafio_foreach.deps.json
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/bin/Debug/net8.0/desafio_foreach.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/bin/Debug/net8.0/desafio_foreach.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/bin/Debug/net8.0/desafio_foreach.pdb
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/obj/Debug/net8.0/desafio_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/obj/Debug/net8.0/desafio_foreach.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/obj/Debug/net8.0/desafio_foreach.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/obj/Debug/net8.0/desafio_foreach.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/obj/Debug/net8.0/desafio_foreach.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/obj/Debug/net8.0/refint/desafio_foreach.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/obj/Debug/net8.0/desafio_foreach.pdb
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/obj/Debug/net8.0/desafio_foreach.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_foreach/obj/Debug/net8.0/ref/desafio_foreach.dll

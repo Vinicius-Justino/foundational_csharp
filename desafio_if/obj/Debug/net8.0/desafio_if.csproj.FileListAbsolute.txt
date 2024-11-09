@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/bin/Debug/net8.0/desafio_if
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/bin/Debug/net8.0/desafio_if.deps.json
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/bin/Debug/net8.0/desafio_if.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/bin/Debug/net8.0/desafio_if.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/bin/Debug/net8.0/desafio_if.pdb
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/obj/Debug/net8.0/desafio_if.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/obj/Debug/net8.0/desafio_if.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/obj/Debug/net8.0/desafio_if.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/obj/Debug/net8.0/desafio_if.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/obj/Debug/net8.0/desafio_if.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/obj/Debug/net8.0/refint/desafio_if.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/obj/Debug/net8.0/desafio_if.pdb
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/obj/Debug/net8.0/desafio_if.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_if/obj/Debug/net8.0/ref/desafio_if.dll
