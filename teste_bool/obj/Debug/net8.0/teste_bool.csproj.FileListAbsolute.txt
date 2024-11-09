@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/obj/Debug/net8.0/teste_bool.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/obj/Debug/net8.0/teste_bool.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/obj/Debug/net8.0/teste_bool.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/obj/Debug/net8.0/teste_bool.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/bin/Debug/net8.0/teste_bool
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/bin/Debug/net8.0/teste_bool.deps.json
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/bin/Debug/net8.0/teste_bool.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/bin/Debug/net8.0/teste_bool.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/bin/Debug/net8.0/teste_bool.pdb
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/obj/Debug/net8.0/teste_bool.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/obj/Debug/net8.0/refint/teste_bool.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/obj/Debug/net8.0/teste_bool.pdb
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/obj/Debug/net8.0/teste_bool.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_bool/obj/Debug/net8.0/ref/teste_bool.dll

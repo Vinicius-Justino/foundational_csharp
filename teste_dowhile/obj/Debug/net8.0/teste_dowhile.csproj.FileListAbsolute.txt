@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/bin/Debug/net8.0/teste_dowhile
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/bin/Debug/net8.0/teste_dowhile.deps.json
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/bin/Debug/net8.0/teste_dowhile.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/bin/Debug/net8.0/teste_dowhile.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/bin/Debug/net8.0/teste_dowhile.pdb
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/obj/Debug/net8.0/teste_dowhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/obj/Debug/net8.0/teste_dowhile.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/obj/Debug/net8.0/teste_dowhile.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/obj/Debug/net8.0/teste_dowhile.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/obj/Debug/net8.0/teste_dowhile.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/obj/Debug/net8.0/refint/teste_dowhile.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/obj/Debug/net8.0/teste_dowhile.pdb
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/obj/Debug/net8.0/teste_dowhile.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_dowhile/obj/Debug/net8.0/ref/teste_dowhile.dll

@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/teste_for/bin/Debug/net8.0/teste_for
+/home/cardoos/codigos/C#/ms_fcc/teste_for/bin/Debug/net8.0/teste_for.deps.json
+/home/cardoos/codigos/C#/ms_fcc/teste_for/bin/Debug/net8.0/teste_for.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/teste_for/bin/Debug/net8.0/teste_for.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_for/bin/Debug/net8.0/teste_for.pdb
+/home/cardoos/codigos/C#/ms_fcc/teste_for/obj/Debug/net8.0/teste_for.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/teste_for/obj/Debug/net8.0/teste_for.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_for/obj/Debug/net8.0/teste_for.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/teste_for/obj/Debug/net8.0/teste_for.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_for/obj/Debug/net8.0/teste_for.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_for/obj/Debug/net8.0/refint/teste_for.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_for/obj/Debug/net8.0/teste_for.pdb
+/home/cardoos/codigos/C#/ms_fcc/teste_for/obj/Debug/net8.0/teste_for.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_for/obj/Debug/net8.0/ref/teste_for.dll
