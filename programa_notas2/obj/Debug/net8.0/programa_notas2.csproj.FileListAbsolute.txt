@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/obj/Debug/net8.0/programa_notas2.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/obj/Debug/net8.0/programa_notas2.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/obj/Debug/net8.0/programa_notas2.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/obj/Debug/net8.0/programa_notas2.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/bin/Debug/net8.0/programa_notas2
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/bin/Debug/net8.0/programa_notas2.deps.json
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/bin/Debug/net8.0/programa_notas2.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/bin/Debug/net8.0/programa_notas2.dll
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/bin/Debug/net8.0/programa_notas2.pdb
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/obj/Debug/net8.0/programa_notas2.dll
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/obj/Debug/net8.0/refint/programa_notas2.dll
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/obj/Debug/net8.0/programa_notas2.pdb
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/obj/Debug/net8.0/programa_notas2.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/programa_notas2/obj/Debug/net8.0/ref/programa_notas2.dll

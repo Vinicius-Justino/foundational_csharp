@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/bin/Debug/net8.0/projeto_animais
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/bin/Debug/net8.0/projeto_animais.deps.json
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/bin/Debug/net8.0/projeto_animais.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/bin/Debug/net8.0/projeto_animais.dll
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/bin/Debug/net8.0/projeto_animais.pdb
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/obj/Debug/net8.0/projeto_animais.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/obj/Debug/net8.0/projeto_animais.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/obj/Debug/net8.0/projeto_animais.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/obj/Debug/net8.0/projeto_animais.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/obj/Debug/net8.0/projeto_animais.dll
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/obj/Debug/net8.0/refint/projeto_animais.dll
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/obj/Debug/net8.0/projeto_animais.pdb
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/obj/Debug/net8.0/projeto_animais.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/projeto_animais/obj/Debug/net8.0/ref/projeto_animais.dll
