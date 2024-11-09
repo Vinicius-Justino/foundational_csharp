@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/bin/Debug/net8.0/desafio2_while
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/bin/Debug/net8.0/desafio2_while.deps.json
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/bin/Debug/net8.0/desafio2_while.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/bin/Debug/net8.0/desafio2_while.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/bin/Debug/net8.0/desafio2_while.pdb
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/obj/Debug/net8.0/desafio2_while.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/obj/Debug/net8.0/desafio2_while.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/obj/Debug/net8.0/desafio2_while.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/obj/Debug/net8.0/desafio2_while.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/obj/Debug/net8.0/desafio2_while.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/obj/Debug/net8.0/refint/desafio2_while.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/obj/Debug/net8.0/desafio2_while.pdb
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/obj/Debug/net8.0/desafio2_while.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio2_while/obj/Debug/net8.0/ref/desafio2_while.dll

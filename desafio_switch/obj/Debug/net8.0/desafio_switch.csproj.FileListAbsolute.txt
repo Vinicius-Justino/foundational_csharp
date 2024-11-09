@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/obj/Debug/net8.0/desafio_switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/obj/Debug/net8.0/desafio_switch.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/obj/Debug/net8.0/desafio_switch.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/obj/Debug/net8.0/desafio_switch.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/bin/Debug/net8.0/desafio_switch
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/bin/Debug/net8.0/desafio_switch.deps.json
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/bin/Debug/net8.0/desafio_switch.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/bin/Debug/net8.0/desafio_switch.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/bin/Debug/net8.0/desafio_switch.pdb
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/obj/Debug/net8.0/desafio_switch.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/obj/Debug/net8.0/refint/desafio_switch.dll
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/obj/Debug/net8.0/desafio_switch.pdb
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/obj/Debug/net8.0/desafio_switch.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/desafio_switch/obj/Debug/net8.0/ref/desafio_switch.dll
