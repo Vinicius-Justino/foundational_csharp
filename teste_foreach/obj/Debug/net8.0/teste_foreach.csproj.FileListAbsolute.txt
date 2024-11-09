@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/bin/Debug/net8.0/teste_foreach
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/bin/Debug/net8.0/teste_foreach.deps.json
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/bin/Debug/net8.0/teste_foreach.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/bin/Debug/net8.0/teste_foreach.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/bin/Debug/net8.0/teste_foreach.pdb
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/obj/Debug/net8.0/teste_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/obj/Debug/net8.0/teste_foreach.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/obj/Debug/net8.0/teste_foreach.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/obj/Debug/net8.0/teste_foreach.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/obj/Debug/net8.0/teste_foreach.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/obj/Debug/net8.0/refint/teste_foreach.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/obj/Debug/net8.0/teste_foreach.pdb
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/obj/Debug/net8.0/teste_foreach.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_foreach/obj/Debug/net8.0/ref/teste_foreach.dll

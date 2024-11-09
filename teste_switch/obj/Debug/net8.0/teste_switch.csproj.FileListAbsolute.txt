@@ -1,0 +1,14 @@
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/obj/Debug/net8.0/teste_switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/obj/Debug/net8.0/teste_switch.AssemblyInfoInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/obj/Debug/net8.0/teste_switch.AssemblyInfo.cs
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/obj/Debug/net8.0/teste_switch.csproj.CoreCompileInputs.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/bin/Debug/net8.0/teste_switch
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/bin/Debug/net8.0/teste_switch.deps.json
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/bin/Debug/net8.0/teste_switch.runtimeconfig.json
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/bin/Debug/net8.0/teste_switch.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/bin/Debug/net8.0/teste_switch.pdb
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/obj/Debug/net8.0/teste_switch.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/obj/Debug/net8.0/refint/teste_switch.dll
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/obj/Debug/net8.0/teste_switch.pdb
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/obj/Debug/net8.0/teste_switch.genruntimeconfig.cache
+/home/cardoos/codigos/C#/ms_fcc/teste_switch/obj/Debug/net8.0/ref/teste_switch.dll
